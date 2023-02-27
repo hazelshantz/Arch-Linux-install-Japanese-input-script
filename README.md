@@ -1,4 +1,4 @@
- Japanese Input Installer
+# Japanese Input Installer
 
 This script installs the necessary packages to enable Japanese input on your Arch Linux-based system.
 
