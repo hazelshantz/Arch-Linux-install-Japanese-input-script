@@ -11,7 +11,7 @@ This script installs the necessary packages to enable Japanese input on your Arc
 
 1. Download the `install_japanese_input.sh` script to your computer.
 2. Navigate to the directory where the script is located.
-3. Make the script executable by right-clicking on the script file, selecting "Properties", and checking the "Is executable" checkbox under the "Permissions" tab.
+3. Make the script executable by running `chmod u+x install_japanese_input.sh`on a terminal, or by right-clicking on the script file, selecting "Properties", and checking the "Is executable" checkbox under the "Permissions" tab.
 4. Run the script by right-clicking on the script file and selecting "Open with Terminal" or "Run in Konsole" (depending on your desktop environment).
 5. Follow the prompts to select your desired Japanese input method and configure your system settings.
 
