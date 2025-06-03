@@ -36,4 +36,4 @@ If you continue to have issues, please consult the Arch Linux documentation or s
 
 ## Credits
 
-This script was created by Germán Paiva.
+This script was created by Germán Paiva. Updated and modified by Hazëlshantz
