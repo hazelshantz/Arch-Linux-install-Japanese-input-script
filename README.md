@@ -6,7 +6,8 @@ This script installs the necessary packages to enable Japanese input on your Arc
 
 - Arch Linux-based system
 - `sudo` privileges
-
+- updated mirrors and system
+  
 ## Usage
 
 1. Download the `install_japanese_input.sh` script to your computer.
@@ -31,6 +32,7 @@ If you encounter any issues with the script, please check the following:
 - Your system meets the requirements listed above.
 - You have `sudo` privileges.
 - The script file is executable (see step 3).
+- your mirrors are up to date. use reflector to update them if outdated, then update your system with `sudo pacman -Syu`
 
 If you continue to have issues, please consult the Arch Linux documentation or seek assistance from the Arch Linux community.
 
